@@ -15,7 +15,7 @@ public class Aritmetica {
         System.out.println("Ingresar numero 2: ");
         num2 = lectura.nextDouble();
         
-        System.out.println("Resultados del programa");
+        System.out.println("Resultados de la aplicacion");
         
         // proceso de datos
         suma = num1 + num2;
